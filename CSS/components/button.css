@@ -1,0 +1,17 @@
+.btn-blue{
+	background: #294936;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Merriweather', serif;	
+	display: inline;
+	}
+
+
+
+
+.btn-blue:hover {
+	background-color: #BFC0C0;
+	Color: white;
+}
